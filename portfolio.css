@@ -1,0 +1,245 @@
+body {
+    margin: 10;
+    padding: 10;
+    height: 500vh;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    }
+.btn {
+    width: auto;
+    position: absolute;
+    top: 400%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #1E90FF;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10pc rgba(0,0, 0, 0.1);
+-webkit-transition-duration: 0.3s;
+transition-duration: 0.3s;
+-webkit-transition-property: box-shadow, transform;
+transition-property: box-shadow, transform;
+}
+    h1 {
+    width: 30%;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 30%;
+    position: absolute;
+    top: 380%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+}
+p {
+    width: 18%;
+    position: absolute;
+    top: 20%;
+    left: 48%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+}
+.type1 {
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type2 {
+    width: 30%;
+    position: absolute;
+    top: 70%;
+    left: 100%;
+    transform: translate(-50%,-50%);
+ }
+ .type3 {
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type4 {
+    width: 30%;
+    position: absolute;
+    top: 70%;
+    left: 70%;
+    transform: translate(-50%,-50%);
+ }
+ .type5 {
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type6 {
+    width: 30%;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+ }
+ .type7 {
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type8{
+    width: 30%;
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    transform: translate(-50%,-50%);
+ }
+ .type9{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type10{
+    width: 30%;
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    transform: translate(50%,50%);
+ }
+ .type11{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type12{
+    width: 30%;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    transform: translate(50%,50%);
+ }
+ .type13{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type14{
+    width: 30%;
+    position: absolute;
+    top: 59%;
+    left: -20%;
+    transform: translate(50%,50%);
+ }
+ .type15{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type16{
+    width: 30%;
+    position: absolute;
+    top: 54%;
+    left: 70%;
+    transform: translate(50%,50%);
+ }
+ .type17{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type18{
+    width: 30%;
+    position: absolute;
+    top: 70%;
+    left:10%;
+    transform: translate(150%,150%);
+ }
+ .type19{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type20{
+    width: 30%;
+    position: absolute;
+    top: 130%;
+    left: 70%;
+    transform: translate(50%,50%);
+}
+.type21{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type22{
+    width: 30%;
+    position: absolute;
+    top: 134%;
+    left: 10%;
+    transform: translate(50%,50%);
+}
+.type23{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type24{
+    width: 30%;
+    position: absolute;
+    top: 134%;
+    left: -20%;
+    transform: translate(50%,50%);
+}
+.type25{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type26{
+    width: 30%;
+    position: absolute;
+    top: 198%;
+    left: 40%;
+    transform: translate(50%,50%);
+}
+.type27{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type28{
+    width: 30%;
+    position: absolute;
+    top: 198%;
+    left: 10%;
+    transform: translate(50%,50%);
+}
+.type29{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type30{
+    width: 30%;
+    position: absolute;
+    top: 262%;
+    left: 10%;
+    transform: translate(50%,50%);
+}
+.type31{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+ }
+ .type32{
+    width: 30%;
+    position: absolute;
+    top: 262%;
+    left: 40%;
+    transform: translate(50%,50%);
+}
